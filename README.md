@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ajay Chaurasia! 👋
 
 - 🔭 I’m currently working on: Shopkart (E-commerce replica based on React) & Snake Impact Game (Based on Angular)
 - 🌱 I’m currently learning: ReactJS | NodeJS | Express | MongoDB
